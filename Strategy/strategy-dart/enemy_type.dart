@@ -1,0 +1,6 @@
+
+
+enum EnemyType{
+  Zombie,
+  Alien,
+}
